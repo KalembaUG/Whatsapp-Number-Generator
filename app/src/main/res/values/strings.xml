@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Whatsapp Number Generator</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Welcome</string>
+    <string name="second_fragment_label">Search</string>
+    <string name="start">Start</string>
+    <string name="previous">Previous</string>
+    <!--    my-->
+    <string name="share">Share</string>
+    <string name="welcome_note">Make friends in Uganda using a pool of Ugandans Whatsapp numbers</string>
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="search_button_text">Search</string>
+    <string name="whatsapp_icon_description">whatsapp</string>
+    <string name="contact_developer_on_whatsapp">contact developer on whatsapp</string>
+</resources>
